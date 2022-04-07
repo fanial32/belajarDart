@@ -8,4 +8,5 @@ void main() {
   myAge = 20;
   var nama = 'Fani'; //ini cara penulisan variabel
   print('Hello $nama! $greetings, my age $myAge'); //ini cara menampilkan nya
+  print('Hi \u2665');
 }
